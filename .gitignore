@@ -1,0 +1,8 @@
+bin
+doc
+nbproject
+test/editorComponentScreenshots
+.svn
+.settings
+.classpath
+.project
